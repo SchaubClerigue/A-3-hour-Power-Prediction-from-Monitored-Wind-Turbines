@@ -9,6 +9,6 @@ This study is supported by data from three csv files: two csv files with data fr
  # Jupyter Notebooks
  Three Jupyter notebooks constitute the present study:
  
- 1. Data_processing.ipynb          --> includes all data preprocessing
- 2. Multiple-turbine_models.ipynb  --> models performed with 4 turbines
- 3. Single-turbine_models.ipynb    --> models performed with 1 turbine
+ 1. 'Data_processing.ipynb'          --> includes all data preprocessing
+ 2. 'Multiple-turbine_models.ipynb'  --> models performed with 4 turbines
+ 3. 'Single-turbine_models.ipynb'    --> models performed with 1 turbine
