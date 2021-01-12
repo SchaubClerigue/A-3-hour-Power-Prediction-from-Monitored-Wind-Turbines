@@ -7,8 +7,15 @@ This study is supported by data from three csv files: two csv files with data fr
  1) Windfarm's data: https://opendata-renewables.engie.com/explore/index
  2) Meteorological station's data: https://public.opendatasoft.com/explore/dataset/donnees-synop-essentielles-omm/export/?refine.nom_reg=Grand+Est&refine.libgeo=Thuilley-aux-Groseilles&q.timerange.date=date:%5B2012-12-31T23:00:00Z+TO+2018-01-13T22:59:59Z%5D
  # Jupyter Notebooks
- Three Jupyter notebooks constitute the present study:
+ Three Jupyter notebooks comprehend the coding from the present study:
  
  1. 'Data_processing.ipynb'          --> includes all data preprocessing
  2. 'Multiple-turbine_models.ipynb'  --> models performed with 4 turbines
  3. 'Single-turbine_models.ipynb'    --> models performed with 1 turbine
+# Report
+A detailed report has been is included in this repository to provide with a better understanding of:
+1) The nature of the problem and the aims of the study
+2) Methods used
+3) Results
+4) Interpretations
+5) Conclusions
