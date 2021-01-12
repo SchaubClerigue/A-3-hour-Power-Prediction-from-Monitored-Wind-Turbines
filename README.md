@@ -19,5 +19,5 @@ A detailed report has been is included in this repository to provide with a bett
 3) Results
 4) Interpretations
 5) Conclusions
-## note: 
+## Note: 
 Due to unsolved, and unknown, issues on github's environment, it might be necessary to reloaded several times the notebook 'Data_processing.ipynb' to visualize it. Read more in medium about this issue: https://medium.com/@pg170898/problem-facing-at-github-ipynb-is-not-loading-f986a04649f3
